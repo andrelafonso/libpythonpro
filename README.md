@@ -9,17 +9,17 @@ Suportada versão 3 de python
 
 Para instalar:
 
-``console
+```console
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements-dev.txt
-``
+```
 
 Para conferir qualidade:
 
-``console
+```console
 flake8
-``
+```
 
 Tópicos a serem abordados:
 
