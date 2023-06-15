@@ -78,6 +78,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/andre/libpythonpro",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -137,6 +145,7 @@
       <updated>1686776443366</updated>
     </task>
     <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,5 +155,6 @@
     <MESSAGE value="Suportado Python 3" />
     <MESSAGE value="Adicionada flake8 como dependencia&#10;&#10;close #11" />
     <option name="LAST_COMMIT_MESSAGE" value="Adicionada flake8 como dependencia&#10;&#10;close #11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserido link para o curso no README&#10;&#10;close #4" />
   </component>
 </project>
